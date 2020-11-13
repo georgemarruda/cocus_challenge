@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "VirtualDevice"
+udid = "emulator-5554"
+app = "C:\\workspace\\CocusProject\\app-mock-debug.apk"
+appPackage = "com.example.android.testing.notes.mock"
+autoGrantPermissions = true
+automationName = "uiautomator2"

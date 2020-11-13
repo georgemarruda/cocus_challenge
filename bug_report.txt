@@ -1,0 +1,10 @@
+Cenário de Anexar uma figura
+- Caso o usuário tente anexar uma figura o aplicativo está quebrando e mostrando a mensagem: Notes has stoped
+
+Melhoria
+- Ao tentar criar uma nota com o título vazio, mostrar um popup com a mensagem informando que a ação não é possível
+- Não permitir ao usuário clicar 2 vezes para criar/salvar uma nota. No caso de salvar a nota ela fica duplicada
+- Statitics é uma funcionalidade que não está exibindo nenhuma informação. Neste caso é uma funcionalidade que não agrega valor pro usuário
+
+api
+- A API passa por instabilidade. Sempre retorna "Uh oh, something bad happened" (Pra popular os testes não usei a API)
