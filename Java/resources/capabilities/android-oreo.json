@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "deviceName": "VirtualDevice",
+  "platformVersion": "8.0",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "avd": "device",
+  "appPackage": "com.example.android.testing.notes.mock",
+  "fullReset": true,
+  "newCommandTimeout": 5
+}
